@@ -23,6 +23,9 @@
 gmtset MAP_FRAME_TYPE=plain
 gmtset MAP_FRAME_AXES=WesNz
 
+#this is a big map, best on A3 paper
+gmtset PS_MEDIA=A3
+
 ## Input 
 	# Output file
 	psfile=out.ps
